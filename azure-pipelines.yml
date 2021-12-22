@@ -11,6 +11,10 @@ pool:
   demands:
    - agent.name -equals LAPTOP-3NADS90L
 
+variables:
+- group: New variable group
+- name: my-bare-variable
+  value: 'value of my-bare-variable'
 steps:
 - task: NodeTool@0
   inputs:
