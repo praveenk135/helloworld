@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-hello-world": {
+    "angular-hello-world one ": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
